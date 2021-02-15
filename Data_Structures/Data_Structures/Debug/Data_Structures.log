@@ -1,0 +1,6 @@
+﻿  stack.cpp
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall Stack<int>::Stack<int>(int)" (??0?$Stack@H@@QAE@H@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Stack<int>::push(int)" (?push@?$Stack@H@@QAEXH@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Stack<int>::pop(void)" (?pop@?$Stack@H@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: int __thiscall Stack<int>::top(void)" (?top@?$Stack@H@@QAEHXZ) referenced in function _main
+C:\Users\Ridheesh\Desktop\Data_Structures\Debug\Data_Structures.exe : fatal error LNK1120: 4 unresolved externals
